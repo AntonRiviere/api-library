@@ -45,3 +45,4 @@ export function expressAuthentication(
     throw new Error("Only support JWT securityName");
   }
 }
+//si cette ligne apparait sur git alors c'est la dernière version
